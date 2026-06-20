@@ -1,6 +1,14 @@
 # Taste O'Clock
 
-<img width="702" height="1600" alt="auth_screen" src="https://github.com/user-attachments/assets/1a6ace39-91ac-4df2-8d9a-8f3ad3d2833e" />
+
+<p align="center">
+  <img width="220"  alt="auth_screen" src="https://github.com/user-attachments/assets/1a6ace39-91ac-4df2-8d9a-8f3ad3d2833e" />
+  <img width="220"  alt="menu_screen" src="https://github.com/user-attachments/assets/20d3f756-7c7e-449b-a6fd-7ac1dc82dc3a" />
+  <img width="220"  alt="orders_screen" src="https://github.com/user-attachments/assets/94c4ac5f-27cc-4ee4-ba32-e1db65c5a5e3" />
+  <img width="220"  alt="cart_screen" src="https://github.com/user-attachments/assets/4bf8f41a-21e8-4349-b96c-894820a51eb7" />
+</p>
+
+
 
 
 Flutter food delivery app with Firebase backend, local caching, Stripe card payments, and in-app notifications.
