@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "497152219724",
+    "project_id": "taste-oclock-24-7",
+    "storage_bucket": "taste-oclock-24-7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497152219724:android:d59c90cb70a108b38df2e9",
+        "android_client_info": {
+          "package_name": "com.example.taste_o_clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497152219724-i8qjtl789hn3r4pj2s9cpvik8427s941.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taste_o_clock",
+            "certificate_hash": "3d8c5b78bc57258e3b1a3b2f8be84e0ebbd9e2ec"
+          }
+        },
+        {
+          "client_id": "497152219724-dhqt9aakuclj5jf0eeiqupgops8r7j1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8_DcYaL652BEJYNB-29SPtIOCsUbWBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497152219724-dhqt9aakuclj5jf0eeiqupgops8r7j1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497152219724-5hj0392cemmmprk2icooiip2pfgcreur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tasteOClock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

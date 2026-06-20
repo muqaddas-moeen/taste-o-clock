@@ -1,0 +1,69 @@
+name: taste_o_clock
+description: "Taste O'Clock 24/7"
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_screenutil: ^5.9.3
+  google_fonts: ^8.1.0
+  get: ^4.7.3
+
+  # Firebase
+  firebase_core: ^4.8.0
+  firebase_auth: ^6.5.0
+  cloud_firestore: ^6.0.0
+  firebase_messaging: ^16.0.0
+
+  # Auth
+  google_sign_in: ^6.2.2
+
+  # Local storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # Network / utilities
+  connectivity_plus: ^6.1.4
+  cached_network_image: ^3.4.1
+  flutter_local_notifications: ^19.0.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+  http: ^1.2.2
+  flutter_stripe: ^11.5.0
+  flutter_dotenv: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+  flutter_native_splash: ^2.4.6
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/images/app_icon.png
+  min_sdk_android: 21
+  remove_alpha_ios: true
+
+flutter_native_splash:
+  color: "#F8F8F8"
+  image: assets/images/app_logo.png
+  android_12:
+    color: "#F8F8F8"
+    image: assets/images/app_logo.png
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - assets/images/
