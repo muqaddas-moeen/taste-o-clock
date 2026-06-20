@@ -6,6 +6,13 @@
   <img width="220"  alt="menu_screen" src="https://github.com/user-attachments/assets/20d3f756-7c7e-449b-a6fd-7ac1dc82dc3a" />
   <img width="220"  alt="orders_screen" src="https://github.com/user-attachments/assets/94c4ac5f-27cc-4ee4-ba32-e1db65c5a5e3" />
   <img width="220"  alt="cart_screen" src="https://github.com/user-attachments/assets/4bf8f41a-21e8-4349-b96c-894820a51eb7" />
+  <img width="220"  alt="checkout_screen" src="https://github.com/user-attachments/assets/2faa0640-1c6d-4d93-b80e-9c4f09bed3d9" />
+<img width="220" alt="track_order_screen_with_order_placed_status" src="https://github.com/user-attachments/assets/78f6c02a-6014-4865-9117-c543dceb6466" />
+<img width="220" alt="track_order_screen_with_preparing_status" src="https://github.com/user-attachments/assets/5def2b3f-621d-4f87-b319-df060a389470" />
+<img width="220"  alt="track_order_screen_with_delivered_status" src="https://github.com/user-attachments/assets/4fb2f298-0a69-4547-8554-70cc8052afb6" />
+<img width="220" alt="profile_screen" src="https://github.com/user-attachments/assets/1606a892-4a8a-4050-a16e-fe5b82a78319" />
+<img width="220" alt="profile_screen_with_location" src="https://github.com/user-attachments/assets/49139d8a-79fc-4fae-bc8e-2ac917676544" />
+<img width="220" alt="add_payment_card_view" src="https://github.com/user-attachments/assets/40500d5b-02f3-4279-899b-d0de93ad1ce9" />
 </p>
 
 
