@@ -1,5 +1,8 @@
 # Taste O'Clock
 
+<img width="702" height="1600" alt="auth_screen" src="https://github.com/user-attachments/assets/1a6ace39-91ac-4df2-8d9a-8f3ad3d2833e" />
+
+
 Flutter food delivery app with Firebase backend, local caching, Stripe card payments, and in-app notifications.
 
 ## Features
@@ -8,7 +11,7 @@ Flutter food delivery app with Firebase backend, local caching, Stripe card paym
 - Product menu with categories, search, and offline cache
 - Cart and checkout (cash on delivery or Stripe card)
 - Order tracking with live Firestore updates
-- Local notification history
+- Real-time in-app notifications with persistent local notification history and tracking.
 - Profile: delivery location, payment preference, sign out
 
 ## Tech stack
